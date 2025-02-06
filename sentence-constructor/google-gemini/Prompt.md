@@ -45,5 +45,4 @@ Here is an example of simple sentence structures.
 - try and provide a non-nested bulleted list
 - talk about the vocabulary but try to leave out the japanese words because the student can refer to the vocabulary table.
 
-
 Student Input: Hello, how are doing today? Let's meet and greet tonight at your nearby restaurant.
