@@ -1,4 +1,4 @@
-## ChatGPT Powered Assitant Guide
+## Anthropic Claude Powered Assitant Guide
 
 ### Model
 Claude 3.5 Sonnet 

@@ -1,4 +1,4 @@
-## ChatGPT Powered Assitant Guide
+## Google Gemini Powered Assitant Guide
 
 ### Model
 Gemini 2.0 Flash
@@ -17,7 +17,3 @@ Not Disclosed
 Below image is from official Google Gemini 2.0 Flash documentation,
 
 ![Google Gemini 2.0 Flash](./image.png)
-
-
-## Prompting Guides
-https://www.chatgptguide.ai/2024/06/30/the-only-claude-sonnet-3-5-prompt-engineering-guide-youll-need/
